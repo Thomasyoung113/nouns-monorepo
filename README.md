@@ -55,3 +55,9 @@ pnpm lint
 ```sh
 pnpm format
 ```
+
+---
+
+## Contributing
+
+We welcome contributions from the community! Please read our documentation and feel free to submit pull requests.
